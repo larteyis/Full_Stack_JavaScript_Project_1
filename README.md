@@ -1,2 +1,2 @@
-# Full_Stack_JavaScript_Project_1
+# Random_Quote_Generator
  
